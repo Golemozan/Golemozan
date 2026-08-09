@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0D1117,50:1F6FEB,100:2DD4BF&text=Ozan&fontColor=ffffff&fontSize=70&fontAlign=50&fontAlignY=36&desc=Self-taught%20developer%20%C2%B7%20I%20ship%20products,%20not%20tutorials&descAlign=50&descAlignY=56&descSize=16&animation=fadeIn" alt="banner" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0D1117,50:1F6FEB,100:2DD4BF&text=Ozan%20Akdeniz&fontColor=ffffff&fontSize=58&fontAlign=50&fontAlignY=36&desc=AI-assisted%20product%20developer%20%C2%B7%20I%20ship%20products,%20not%20tutorials&descAlign=50&descAlignY=56&descSize=16&animation=fadeIn" alt="banner" />
 
 <a href="https://github.com/Golemozan">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2800&pause=900&color=2DD4BF&center=true&vCenter=true&width=680&lines=Full-stack+developer+from+Turkey+%F0%9F%87%B9%F0%9F%87%B7;React+19+%2B+TypeScript+on+the+front%2C+.NET+8+%26+Node+behind+it;Every+repo+here+is+a+product+that+runs%2C+not+a+demo;Finish+first%2C+polish+after." alt="typing" />
@@ -8,7 +8,7 @@
 
 <br/>
 
-<a href="https://portfolyo-nazo4.vercel.app"><img src="https://img.shields.io/badge/Portfolio-portfolyo--nazo4.vercel.app-1F6FEB?style=for-the-badge&logo=vercel&logoColor=white" alt="portfolio" /></a>
+<a href="https://ozanosio.com"><img src="https://img.shields.io/badge/Portfolio-ozanosio.com-1F6FEB?style=for-the-badge&logo=googlechrome&logoColor=white" alt="portfolio" /></a>
 <a href="mailto:ozan45emr@gmail.com"><img src="https://img.shields.io/badge/Email-ozan45emr@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="email" /></a>
 <img src="https://komarev.com/ghpvc/?username=Golemozan&style=for-the-badge&color=2DD4BF&label=PROFILE+VIEWS" alt="views" />
 
@@ -104,7 +104,7 @@ Veterinary clinic management SaaS: owners, pets, appointments, vaccination sched
 
 `Node.js` `Express` `SQLite` `React 19` `Docker`
 
-> Ships as two containers — `docker compose up` and it's live.
+> **[▶ Try the live demo](https://www.ozanosio.com/vet-clinic/)** — no signup, real data.
 
 </td>
 <td width="50%" valign="top">
@@ -181,7 +181,7 @@ Personal trade journal — log entries and exits, then see what your strategy ac
 
 <div align="center">
 
-<a href="https://portfolyo-nazo4.vercel.app"><img src="https://img.shields.io/badge/Portfolio-0D1117?style=for-the-badge&logo=googlechrome&logoColor=2DD4BF" alt="portfolio" /></a>
+<a href="https://ozanosio.com"><img src="https://img.shields.io/badge/Portfolio-0D1117?style=for-the-badge&logo=googlechrome&logoColor=2DD4BF" alt="portfolio" /></a>
 <a href="mailto:ozan45emr@gmail.com"><img src="https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=gmail&logoColor=EA4335" alt="email" /></a>
 <a href="https://github.com/Golemozan"><img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=white" alt="github" /></a>
 
