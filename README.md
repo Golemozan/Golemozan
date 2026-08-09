@@ -40,8 +40,8 @@ Clinic management SaaS: patients, appointments, vaccination schedules and accoun
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=Golemozan&bg_color=0D1117&color=8b949e&line=0A84FF&point=0A84FF&area=true&area_color=0A84FF&hide_border=true&custom_title=" />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Golemozan&bg_color=ffffff&color=57606a&line=0A84FF&point=0A84FF&area=true&area_color=0A84FF&hide_border=true&custom_title=" width="100%" alt="" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Golemozan/Golemozan/output/contributions-dark.svg" />
+  <img src="https://raw.githubusercontent.com/Golemozan/Golemozan/output/contributions.svg" width="100%" alt="Daily contributions over the last 8 weeks" />
 </picture>
 
 <br/>
@@ -49,17 +49,6 @@ Clinic management SaaS: patients, appointments, vaccination schedules and accoun
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Golemozan&layout=compact&langs_count=6&hide_border=true&count_private=true&bg_color=0D1117&title_color=0A84FF&text_color=8b949e" />
   <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Golemozan&layout=compact&langs_count=6&hide_border=true&count_private=true&bg_color=ffffff&title_color=0A84FF&text_color=57606a" height="165" alt="" />
-</picture>
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=Golemozan&hide_border=true&background=0D1117&ring=0A84FF&fire=0A84FF&currStreakLabel=0A84FF&sideLabels=8b949e&dates=8b949e&stroke=21262d&sideNums=c9d1d9&currStreakNum=c9d1d9" />
-  <img src="https://streak-stats.demolab.com?user=Golemozan&hide_border=true&background=ffffff&ring=0A84FF&fire=0A84FF&currStreakLabel=0A84FF" height="165" alt="" />
-</picture>
-
-<br/><br/>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Golemozan/Golemozan/output/github-snake-dark.svg" />
-  <img src="https://raw.githubusercontent.com/Golemozan/Golemozan/output/github-snake.svg" width="100%" alt="" />
 </picture>
 
 </div>

@@ -1,4 +1,4 @@
-name: Generate contribution snake
+name: Build contribution chart
 
 on:
   schedule:
@@ -15,14 +15,17 @@ jobs:
     permissions:
       contents: write
     steps:
-      - name: Generate snake SVGs
-        uses: Platane/snk@v3
-        id: snake-gif
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
         with:
-          github_user_name: ${{ github.repository_owner }}
-          outputs: |
-            dist/github-snake.svg?color_snake=#0A84FF&color_dots=#eef2f6,#cfe4ff,#94c6ff,#4ea3ff,#0A84FF
-            dist/github-snake-dark.svg?color_snake=#5E5CE6&color_dots=#161b22,#0d2e57,#12508f,#0a6fd6,#0A84FF
+          node-version: 24
+
+      - name: Build chart SVGs
+        run: node .github/scripts/contrib-chart.mjs
+        env:
+          LOGIN: ${{ github.repository_owner }}
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Push to output branch
         uses: crazy-max/ghaction-github-pages@v4
