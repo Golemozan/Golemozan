@@ -1,66 +1,69 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=soft&height=170&color=0:0A84FF,100:5E5CE6&text=Ozan%20Akdeniz&fontColor=ffffff&fontSize=44&fontAlignY=40&desc=Product%20developer&descSize=17&descAlignY=62&animation=fadeIn" alt="" />
+<img src="assets/banner.png" width="100%" alt="RatOS — a rat in a fez working at his desk with a glass of tea" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=400&size=19&duration=4200&pause=1600&color=0A84FF&center=true&vCenter=true&width=560&height=40&lines=I+build+web+apps+end+to+end.;Design%2C+backend%2C+deploy+%E2%80%94+all+of+it.;Everything+here+runs+in+production." alt="" />
-
-<br/>
-
-Self-taught developer from Turkey. I build full-stack products with React and .NET,
-then actually ship them — Docker, CI, live on a real domain.
-
-<br/>
-
-<img src="https://skillicons.dev/icons?i=ts,react,tailwind,dotnet,nodejs,postgres,docker,git&theme=dark" alt="" />
+[ozanosio.com](https://ozanosio.com) &nbsp;/&nbsp; [Get in touch](mailto:ozan45emr@gmail.com)
 
 </div>
 
-<br/>
+I'm **Ozan**. **RatOS** is where I put AI to work on real tasks and write down what actually happened.
 
-## Work
+Most AI content sells a promise. I take the claim, run it, and show the result — even when the result is boring. Videos are in Turkish; the code and notes live here.
 
-**[FitTrack](https://github.com/Golemozan/FitTrack)** · live in production<br/>
-Nutrition, workout and weight tracking with an AI coach that knows Turkish cuisine. Web and Telegram.<br/>
-<sub>`.NET 8` `React 19` `SQLite` `Railway`</sub>
+## How it works
 
-**[RugRadar](https://github.com/Golemozan/rugradar)**<br/>
-Solana memecoin scanner with a safety scorer and instant alerts. A Redis job queue made it 5.5× faster.<br/>
-<sub>`TypeScript` `Prisma` `Redis` `React`</sub>
+<table>
+<tr>
+<td width="50%" valign="top">
+<sub><b>01 / WHAT AI IS</b></sub>
+<h3>How it works, why it fails</h3>
+What a model actually does, where it guesses, and what it can't know. No magic, no doom.
+</td>
+<td width="50%" valign="top">
+<sub><b>02 / HOW TO USE IT</b></sub>
+<h3>Shown on real work</h3>
+Agents, memory, reviews and automation — on projects that ship, not on a demo built for the camera.
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<sub><b>03 / AGAINST AI SLOP</b></sub>
+<h3>Claim → test → result</h3>
+A viral claim gets tried. If it holds, I say so. If it doesn't, the receipts are on screen.
+</td>
+<td width="50%" valign="top">
+<sub><b>04 / THE RULE</b></sub>
+<h3>The claim, not the person</h3>
+No names, no channels, no faces. Disagreement without proof doesn't get published.
+</td>
+</tr>
+</table>
 
-**[vet-clinic](https://github.com/Golemozan/vet-clinic)** · [live demo →](https://www.ozanosio.com/vet-clinic/)<br/>
-Clinic management SaaS: patients, appointments, vaccination schedules and accounting.<br/>
-<sub>`Node.js` `Express` `SQLite` `Docker`</sub>
+## On the workbench: Echo
+
+**A second brain that remembers.**
+
+Echo runs on Obsidian and Claude Code. It carries decisions, rules and open threads from one session to the next, so work doesn't restart from zero every morning. Every rule in it came from a mistake that happened once.
+
+**In daily use.** The vault is private for now.
+
+## Built with it
+
+| Project | What to look for |
+|---|---|
+| [FitTrack](https://github.com/Golemozan/FitTrack) | Live in production. An AI coach that knows Turkish cuisine, on web and Telegram. |
+| [RugRadar](https://github.com/Golemozan/rugradar) | Solana memecoin scanner. A Redis job queue made it 5.5× faster. |
+| [vet-clinic](https://github.com/Golemozan/vet-clinic) | Clinic management SaaS. [Live demo →](https://www.ozanosio.com/vet-clinic/) |
+| [mojiblame](https://github.com/Golemozan/mojiblame) | A CLI that finds where broken text encoding came from. |
 
 <sub>Also: [TradingJournal](https://github.com/Golemozan/TradingJournal) · [LinkSnap](https://github.com/Golemozan/LinkSnap) · [gayrimenkul-crm](https://github.com/Golemozan/gayrimenkul-crm)</sub>
 
-<br/>
-
-## Activity
+---
 
 <div align="center">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Golemozan/Golemozan/output/contributions-dark.svg" />
-  <img src="https://raw.githubusercontent.com/Golemozan/Golemozan/output/contributions.svg" width="100%" alt="Daily contributions over the last 8 weeks" />
-</picture>
+**Claim. Test. Result.**
 
-<br/>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Golemozan&layout=compact&langs_count=6&hide_border=true&count_private=true&bg_color=0D1117&title_color=0A84FF&text_color=8b949e" />
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Golemozan&layout=compact&langs_count=6&hide_border=true&count_private=true&bg_color=ffffff&title_color=0A84FF&text_color=57606a" height="165" alt="" />
-</picture>
-
-</div>
-
-<br/>
-
-<div align="center">
-
-**[ozanosio.com](https://ozanosio.com)** &nbsp;·&nbsp; [ozan45emr@gmail.com](mailto:ozan45emr@gmail.com)
-
-<sub>Open to full-time and freelance work.</sub>
-
-<img src="https://capsule-render.vercel.app/api?type=soft&section=footer&height=90&color=0:5E5CE6,100:0A84FF" alt="" />
+<sub>For collaborations: [ozan45emr@gmail.com](mailto:ozan45emr@gmail.com)</sub>
 
 </div>
